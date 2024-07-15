@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nandita!
 - 😄 Pronouns: She/Her
 - 👀 An incoming Masters Student at Purdue University
-- 📫 How to reach me https://www.linkedin.com/in/nandita-s-55b9bb1b3/
+- 📫 How to reach me https: https://www.linkedin.com/in/nandita-suresh-55b9bb1b3/
 - ⚡ Forging my path with curiosity as my compass to embark a new journey! 
 
 <!---
